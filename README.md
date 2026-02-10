@@ -59,19 +59,18 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 - **Tools:** System Design Fundamentals, Git  
 
 ---
-
 ## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=https://github.com/arjungit36&show_icons=true&theme=tokyonight&hide_rank=true"
+    src="https://github-readme-stats.vercel.app/api?username=arjungit36&show_icons=true&theme=tokyonight&hide_rank=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/arjungit36&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arjungit36&theme=tokyonight"
     alt="GitHub Profile Summary"
   />
 </p>
@@ -79,6 +78,7 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 <p align="center">
   <i>Consistently improving through projects, problem solving, and continuous learning.</i>
 </p>
+>
 
 ---
 
