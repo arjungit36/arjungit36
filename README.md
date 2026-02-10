@@ -6,13 +6,8 @@
 
 <p align="center">
   <a href="mailto:prayanshusingh36@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-prayanshusingh36%40gmail.com-red?style=flat-square&logo=gmail"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-prayanshusingh36%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
-</p>
-
   <a href="https://www.linkedin.com/in/prayanshu-singh-gaur-894754286">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
@@ -41,7 +36,7 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 
 ## 🧠 Core Focus Areas
 
-- Data Structures & Algorithms (problem solving & optimization)
+- Data Structures & Algorithms (problem solving)
 - Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
 - Operating Systems (basics)
@@ -52,14 +47,14 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 ## 💻 Projects
 
 ### 🔹 Blinkit Sales Analysis
-- Cleaned and preprocessed real-world sales data using Python and Pandas  
-- Performed Exploratory Data Analysis (EDA) to identify sales trends and revenue patterns  
+- Performed data cleaning and preprocessing on real-world sales data  
+- Conducted Exploratory Data Analysis (EDA) to identify sales trends and revenue patterns  
 - Analyzed customer behavior using visualizations  
 - **Tools:** Python, Pandas, NumPy, Matplotlib  
 
-### 🔹 Baby Dragon Hatchling (BDH) Hackathon – System Architecture
-- Designed system architecture and defined component interactions  
-- Analyzed data flow and scalability considerations  
+### 🔹 Baby Dragon Hatchling (BDH) – Hackathon (System Architecture)
+- Defined component interactions and data flow  
+- Designed scalable system architecture  
 - Collaborated with team members to present the final solution  
 - **Tools:** System Design Fundamentals, Git  
 
@@ -82,7 +77,7 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 </p>
 
 <p align="center">
-  <i>Consistently improving through hands-on projects, problem solving, and continuous learning.</i>
+  <i>Consistently improving through projects, problem solving, and continuous learning.</i>
 </p>
 
 ---
@@ -92,7 +87,7 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 - **Programming Languages:** Python, Java, C, JavaScript, SQL  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, EDA, Data Cleaning  
 - **Machine Learning:** Supervised Learning, Model Training, Model Evaluation  
-- **Core Computer Science:** DSA, OOP, DBMS, Operating Systems  
+- **Core CS:** DSA, OOP, DBMS, Operating Systems  
 - **Databases:** MySQL, Oracle SQL  
 - **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Kaggle  
 
@@ -118,10 +113,10 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 ## 📫 Connect With Me
 
 - 📧 Email: prayanshusingh36@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_ID  
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- 📊 Kaggle: https://www.kaggle.com/YOUR_KAGGLE_ID  
+- 💼 LinkedIn: https://www.linkedin.com/in/prayanshu-singh-gaur-894754286
+- 💻 GitHub: https://github.com/arjungit36  
+- 📊 Kaggle: https://www.kaggle.com/prayanshusinghgaur
 
 ---
 
-⭐ *This profile reflects my learning journey, consistency, and problem-solving mindset.*
+⭐ *This GitHub profile reflects my learning journey, consistency, and problem-solving mindset.*
