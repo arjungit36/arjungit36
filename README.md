@@ -6,8 +6,13 @@
 
 <p align="center">
   <a href="mailto:prayanshusingh36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail" />
+    <img
+      src="https://img.shields.io/badge/Email-prayanshusingh36%40gmail.com-red?style=flat-square&logo=gmail"
+      alt="Email"
+    />
   </a>
+</p>
+
   <a href="https://www.linkedin.com/in/prayanshu-singh-gaur-894754286">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
