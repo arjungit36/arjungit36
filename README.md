@@ -60,19 +60,19 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_rank=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=https://github.com/arjungit36&show_icons=true&theme=tokyonight&hide_rank=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/arjungit36&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
