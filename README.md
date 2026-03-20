@@ -112,6 +112,7 @@ with a focus on building scalable, data-driven, and well-structured solutions.
 - 💼 LinkedIn: https://www.linkedin.com/in/prayanshu-singh-gaur-894754286
 - 💻 GitHub: https://github.com/arjungit36  
 - 📊 Kaggle: https://www.kaggle.com/prayanshusinghgaur
+- LEETCODE: https://leetcode.com/u/Prayanshusingh36/
 
 ---
 
