@@ -89,6 +89,14 @@
 
 ---
 
+## 🧠 Languages And Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arjungit36/arjungit36/main/skills.png" width="100%" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -96,6 +104,8 @@
 </p>
 
 ---
+
+<img src="https://raw.githubusercontent.com/arjungit36/arjungit36/main/banner.png" width="80%" />
 
 ### ✍️ Random Dev Quote
 <p align="center">
