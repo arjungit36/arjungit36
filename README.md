@@ -46,7 +46,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -54,11 +53,6 @@
   <img src="https://img.shields.io/badge/Data_Structures-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-00C7B7?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 <p align="center">
