@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DSA+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast;Future+Software+Engineer" />
 
 <p>
+  
   <img src="https://img.shields.io/badge/ASPIRING_SOFTWARE_ENGINEER-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA_ENTHUSIAST-20BEFF?style=for-the-badge" />
