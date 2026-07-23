@@ -36,9 +36,7 @@
 - 🌱 I'm currently learning **Full Stack Development & ML**
 - 💬 Ask me about **Java, DSA, Python & Web Development**
 - ⚡ Fun fact: **Consistent coding & problem solving mindset 🚀**
-
 ---
-
 ## 🧠 Skills Highlight
 
 <p align="center">
