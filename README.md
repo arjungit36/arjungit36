@@ -35,6 +35,17 @@
 - 💬 Ask me about **Java, DSA, Python & Web Development**
 - ⚡ Fun fact: **Consistent coding & problem solving mindset 🚀**
 ---
+
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjungit36&theme=gotham&hide_border=true"/>
+</p>
+
+
+
 ## 🧠 Skills Highlight
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -99,10 +110,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=Thanks%20for%20visiting%20my%20GitHub!%20⭐&fontSize=28&fontColor=fff&animation=twinkling"/>
 </div>
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjungit36&theme=gotham&hide_border=true"/>
-</p>
