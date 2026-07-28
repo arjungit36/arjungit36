@@ -53,9 +53,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 ---
-
 ## 🏆 Competitive Programming
 
 <p align="center">
@@ -63,7 +61,6 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge" />
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
