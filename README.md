@@ -111,3 +111,34 @@
 </p>
 
 ---
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjungit36&show_icons=true&theme=gotham&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjungit36&layout=compact&theme=gotham&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjungit36&theme=gotham&hide_border=true"/>
+</p>
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjungit36&theme=gotham&hide_border=true"/>
+</p>
+
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arjungit36&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arjungit36/arjungit36/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
