@@ -36,8 +36,6 @@
 - ⚡ Fun fact: **Consistent coding & problem solving mindset 🚀**
 ---
 
-
-
 # 📈 Contribution Graph
 
 <p align="center">
